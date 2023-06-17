@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.week1.cashregisterpart1.app-mergeDebugResources-39:/layout/activity_restock.xml",
+        "source": "com.week1.cashregisterpart1.app-main-42:/layout/activity_restock.xml"
+    },
+    {
+        "merged": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-mergeDebugResources-39:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-main-42:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-mergeDebugResources-39:\\layout\\listitem.xml",
+        "source": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-main-42:\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-mergeDebugResources-39:\\layout\\activity_restock.xml",
+        "source": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-main-42:\\layout\\activity_restock.xml"
+    },
+    {
+        "merged": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-mergeDebugResources-39:\\layout\\history_list_item.xml",
+        "source": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-main-42:\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-mergeDebugResources-39:\\layout\\activity_manager.xml",
+        "source": "C:\\Users\\tizli\\.gradle\\daemon\\8.0\\com.week1.cashregisterpart1.app-main-42:\\layout\\activity_manager.xml"
+    }
+]

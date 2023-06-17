@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Documents\Study\MySenecaStudy\Term_4_2023_May\MAP524NSA\ASS2\CashRegisterPart1\app\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Documents\Study\MySenecaStudy\Term_4_2023_May\MAP524NSA\ASS2\CashRegisterPart1\app\src\debug\shaders"/></dataSet></merger>

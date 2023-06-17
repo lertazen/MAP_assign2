@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.week1.cashregisterpart1.app-mergeDebugResources-38:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Documents\\Study\\MySenecaStudy\\Term_4_2023_May\\MAP524NSA\\ASS2\\CashRegisterPart1\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        }
+    ]
+}
